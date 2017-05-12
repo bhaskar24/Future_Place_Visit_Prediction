@@ -1,4 +1,4 @@
-# Training of Personality Trait Model for Predicting Places of Visit
+# Training of Personality Trait Model for Predicting Future Places of Visit
 
 ## Course Code: CS867	<br/>
 ## Course Project	<br/>
