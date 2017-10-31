@@ -1,7 +1,7 @@
 # Training of Personality Trait Model for Predicting Future Places of Visit
 
 ## Course Code: CS867	<br/>
-## Course Project	<br/>
+## Course Project	Data Science 2017<br/>
 
 ### Overview		<br/>
 Problem of predicting likely places of visit of users using their generated content on Twitter considering the past tweets and additional constraints such as the time of visit, geo-spatial range, previous visited location, personality traits are resolved [1]. Further, solution is able to solve cold start problem for new users. This repository contains an implementation (can be provided on request) and results of such predictions using python [2].
